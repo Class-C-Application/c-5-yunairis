@@ -27,6 +27,7 @@ int main(void)
 			}
 			printf("\n");
 		}
+		printf("\n");
 	}
 	// i == 0이면 printf("[강좌 1]");, 아니면 printf("[강좌 2]"); 로 강좌명을 출력하세요
 	// printf("%11s%7s\n", "중간", "기말"); 로 헤더를 출력하세요
